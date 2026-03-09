@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+pydantic
+openai # Uncomment if you want to use OpenAI
+google-generativeai # Uncomment if you want to use Gemini
